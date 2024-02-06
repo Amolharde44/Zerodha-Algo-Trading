@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"zerodhaalgo","l":"liveData"},{"p":"zerodhaalgo","l":"mainFrame"},{"p":"zerodhaalgo","l":"ZerodhaAlgo"}];updateSearchResults();
